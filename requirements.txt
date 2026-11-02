@@ -1,0 +1,7 @@
+pandas==3.1.0
+numpy==2.5.4
+duckdb==2.0.0
+holidays==0.107
+lightgbm==4.7.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
